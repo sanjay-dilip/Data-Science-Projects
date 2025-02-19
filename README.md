@@ -12,7 +12,7 @@ This repository contains data analysis projects focused on extracting insights f
 
 Dataset: MovieLens
 
-Objective: To analyse the users data, ratings data, and the movies data gathered, and to gather insights from them
+Objective: To analyse the 'users' data, 'ratings' data, and the 'movies' data obtained, and to gather insights from them
 
 Key Insights:
 
@@ -21,3 +21,9 @@ Key Insights:
 🔹 [Insight 2]
 
 📂 Folder: movielens/
+
+📌 Future Additions
+
+✅ More datasets & analysis
+
+✅ Machine learning-based insights
