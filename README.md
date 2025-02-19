@@ -15,6 +15,9 @@ Dataset: MovieLens
 Objective: To analyse the users data, ratings data, and the movies data gathered, and to gather insights from them
 
 Key Insights:
+
 🔹 [Insight 1]
+
 🔹 [Insight 2]
+
 📂 Folder: movielens/
