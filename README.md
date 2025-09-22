@@ -1,29 +1,41 @@
 # Data-Science-Projects
 
-A collection of data analysis projects using Python and data science techniques.
+A collection of data analysis projects using Python and core data science techniques.
 
-📌 Overview
+---
 
-This repository contains data analysis projects focused on extracting insights from various datasets. The projects follow a structured workflow, including data cleaning, exploratory data analysis (EDA), visualization, and statistical insights.
+## 📌 Overview
+This repository contains projects focused on extracting insights from structured datasets.  
+Each project follows a structured workflow that includes:
+- Data cleaning and preprocessing
+- Exploratory data analysis (EDA)
+- Visualization
+- Statistical insights
 
-📊 Projects Included
+---
 
-1️⃣ Project 1: MovieLens Data Analysis
+## 📊 Projects Included
 
-Dataset: MovieLens
+### 1️⃣ Project 1: MovieLens Data Analysis
+- **Dataset:** [MovieLens](https://grouplens.org/datasets/movielens/)  
+- **Objective:** Explore the users, ratings, and movies data to uncover meaningful insights about user behavior and movie preferences.  
+- **Key Insights:**
+  - 🔹 Ratings are skewed toward higher values (most ratings fall between 3–4 stars).  
+  - 🔹 Popularity (most rated movies) and quality (highest average ratings) do not always overlap.  
+  - 🔹 User activity follows a long-tail distribution — a small group of users rate movies very frequently.  
+- **Files:**
+  - [💻 Jupyter Notebook (clean)](movielens_movie_ratings_clean.ipynb)  
+  - [🌐 HTML Viewer](movielens_movie_ratings.html)  
 
-Objective: To analyse the 'users' data, 'ratings' data, and the 'movies' data obtained, and to gather insights from them
+---
 
-Key Insights:
+## 📌 Future Additions
+✅ More datasets & EDA projects  
+✅ Statistical modeling and hypothesis testing  
+✅ Visualization dashboards and reports  
+✅ Time-series and forecasting projects  
 
-🔹 [Insight 1]
+---
 
-🔹 [Insight 2]
-
-📂 Folder: movielens/
-
-📌 Future Additions
-
-✅ More datasets & analysis
-
-✅ Machine learning-based insights
+## ⚙️ Requirements
+Core Python libraries used across projects:
