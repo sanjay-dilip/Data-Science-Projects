@@ -24,8 +24,7 @@ Each project follows a structured workflow that includes:
   - 🔹 Popularity (most rated movies) and quality (highest average ratings) do not always overlap.  
   - 🔹 User activity follows a long-tail distribution — a small group of users rate movies very frequently.  
 - **Files:**
-  - [💻 Jupyter Notebook (clean)](movielens_movie_ratings_clean.ipynb)  
-  - [🌐 HTML Viewer](movielens_movie_ratings.html)  
+  - [💻 Jupyter Notebook](movielens_movie_ratings.ipynb)   
 
 ---
 
