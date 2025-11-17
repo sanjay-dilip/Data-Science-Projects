@@ -53,7 +53,6 @@ This folder shows a more complete workflow that goes beyond EDA, with a pipeline
 ✅ Visualization dashboards and reports  
 ✅ Time-series and forecasting projects  
 ✅ end-to-end workflows similar to the MovieLens recommender
-✅ model-based projects using ranking, clustering, or tree models  
 ✅ small apps or dashboards to display results   
 
 ---
