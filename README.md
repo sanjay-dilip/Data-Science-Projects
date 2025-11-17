@@ -48,12 +48,13 @@ The project uses a pipeline, an ALS collaborative model, a hybrid ranking model,
 This folder shows a more complete workflow that goes beyond EDA, with a pipeline, models, evaluation, and an interface.
 
 ## 📌 Future Additions
-✅ More datasets with EDA explorations  
-✅ Statistical modeling and hypothesis testing  
-✅ Visualization dashboards and reports  
-✅ Time-series and forecasting projects  
-✅ end-to-end workflows similar to the MovieLens recommender
-✅ small apps or dashboards to display results   
+- More datasets with EDA explorations  
+- Statistical modeling and hypothesis testing  
+- Visualization dashboards and reports  
+- Time-series and forecasting projects  
+- end-to-end workflows similar to the MovieLens recommender
+- model-based projects using ranking, clustering, or tree models
+- small apps or dashboards to display results   
 
 ---
 
