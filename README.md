@@ -30,19 +30,13 @@ Each project follows a structured workflow that includes:
 - **Folder:** [movielens recommender](https://github.com/sanjay-dilip/Data-Science-Projects/tree/main/movielens-recommender)
 - This project expands on the earlier MovieLens analysis and builds a full recommender system.
 - **Objective:** Help users find movies that match their taste by using rating history and movie content.
-
 The project uses a pipeline, an ALS collaborative model, a hybrid ranking model, and a Streamlit app.
 
 **What it includes:**
-
 - a data pipeline that prepares the full dataset
-
 - an ALS model trained on the sparse user-item matrix
-
 - a hybrid LightGBM ranker that uses content features and ALS scores
-
 - an interactive Streamlit app that displays recommendations
-
 - multiple notebooks that walk through EDA, feature building, model training, and recommendation output
 
 This folder shows a more complete workflow that goes beyond EDA, with a pipeline, models, evaluation, and an interface.
