@@ -22,9 +22,7 @@ Each project follows a structured workflow that includes:
 - **Key Insights:**
   - 🔹 Ratings are skewed toward higher values (most ratings fall between 3–4 stars).  
   - 🔹 Popularity (most rated movies) and quality (highest average ratings) do not always overlap.  
-  - 🔹 User activity follows a long-tail distribution — a small group of users rate movies very frequently.  
-- **Files:**
-  - [💻 Jupyter Notebook](movielens_movie_ratings.ipynb)   
+  - 🔹 User activity follows a long-tail distribution — a small group of users rate movies very frequently.     
 
 ---
 
@@ -35,7 +33,7 @@ Each project follows a structured workflow that includes:
 
 The project uses a pipeline, an ALS collaborative model, a hybrid ranking model, and a Streamlit app.
 
-What it includes:
+**What it includes:**
 
 - a data pipeline that prepares the full dataset
 
